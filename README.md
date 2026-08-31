@@ -36,11 +36,6 @@ The purpose of this repository is to:
 - Document my progress and learning journey
 - Build a foundation for more advanced SQL and data analytics projects
 
-## Repository Structure
 
-```text
-SQL-FUNDAMENTALS-EXERCISES/
-│
-├── Exercises/
 ├── Notes/
 └── README.md
