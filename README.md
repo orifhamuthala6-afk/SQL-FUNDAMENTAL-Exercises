@@ -37,5 +37,5 @@ The purpose of this repository is to:
 - Build a foundation for more advanced SQL and data analytics projects
 
 
-├── Notes/
-└── README.md
+
+
